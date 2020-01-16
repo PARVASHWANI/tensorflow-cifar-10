@@ -100,7 +100,7 @@ This epoch receive better accuracy: 78.81 > 78.78. Saving session...
 python3 predict.py
 ```
 
-Simple output:
+Sample output:
 ```sh
 Trying to restore last checkpoint ...
 Restored checkpoint from: ./tensorboard/cifar-10-v1.0.0/-23460
