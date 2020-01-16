@@ -21,7 +21,7 @@ If you want to get more that 80% accuracy, You need to implement more complicate
 ## Usage
 ### Download code
 ```sh
-git clone https://github.com/exelban/tensorflow-cifar-10
+git clone https://github.com/PARVASHWANI/tensorflow-cifar-10
 
 cd tensorflow-cifar-10
 ```
